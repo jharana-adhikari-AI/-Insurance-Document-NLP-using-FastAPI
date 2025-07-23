@@ -61,15 +61,5 @@ To create a scalable, easy-to-use API that ingests scanned or digital insurance 
 
 ---
 
-## ⚙️ How to Run
+# 🚀 Ongoing Development: This project is actively evolving. I’m continuously studying, refining, and adding new features day by day to improve accuracy, performance, and usability.
 
-```bash
-# Clone the repo
-git clone https://github.com/your-username/insurance-document-parser.git
-cd insurance-document-parser
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run the FastAPI server
-python app.py
