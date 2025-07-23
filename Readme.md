@@ -36,8 +36,7 @@ To create a scalable, easy-to-use API that ingests scanned or digital insurance 
 
 ## 🎥 Demo
 
-https://user-images.githubusercontent.com/YOUR_ID/YOUR_VIDEO_NAME.mp4
-
+[![Watch the demo](thumbnail.png)](https://github.com/jharana-adhikari-AI/-Insurance-Document-NLP-using-FastAPI/blob/main/Insurance%20Document%20Parser.mp4)
 ---
 
 ## 🛠️ Tech Stack
