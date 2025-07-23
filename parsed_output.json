@@ -1,0 +1,25 @@
+{
+    "Policy Number": "12345-67-89",
+    "Policy Effective Date": null,
+    "Policy Expiration Date": "Number 12345-67-89\n\nAuto Insurance Declaration Page",
+    "Named Insured": "(s) Jack Smith",
+    "Drivers": null,
+    "Vehicle": {
+        "year": "2019",
+        "make": "Porsche Macan 4D 4WD\nWP1AA1234567890\n\nCoverage Information\n\nCoverage\n\nBodily Injury\n\nProperty Damage\n\nPermissive User Limit of Liability\nMedical Coverage\n\nUninsured Motorist Bodily Injury\n\nName\n\nJane Smith\n\nCoverage",
+        "model": "Deductible",
+        "vin": "Comprehensive"
+    },
+    "Home Insurance": null,
+    "Medical Insurance": null,
+    "Coverage Information": {
+        "Bodily Injury": "PROPERT",
+        "Property Damage": "",
+        "Medical Coverage": "",
+        "Uninsured Motorist Bodily Injury": "NAE",
+        "Permissive User Limit": "Medical Coverage"
+    },
+    "Claim Type": null,
+    "Claim Amount": 500000.0,
+    "Incident Description": null
+}
